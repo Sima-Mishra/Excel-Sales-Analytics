@@ -1,5 +1,5 @@
 
-# # Sales & Finance Analytics for AtliQ Hardware
+# Sales & Finance Analytics for AtliQ Hardware
 
 ### Linkedin Report Link : https://bit.ly/4aDigrO
 This project is an advanced-level data analytics project focused on Sales and Finance analytics for AtliQ Hardware, a company specializing in hardware and peripheral sales. The goal was to dive deep into sales data to generate key reports that would help the company improve its financial decision-making processes and monitor critical business KPIs.
